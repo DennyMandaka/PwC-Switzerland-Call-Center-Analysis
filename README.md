@@ -19,6 +19,7 @@ Step 3: Visualization and Dashboard Creation
 - Created charts and visualizations to display key metrics such as call volume by time period, agent performance, satisfaction ratings, and unresolved calls.
 - Added slicers to enable dynamic filtering by date, agent, and time period, allowing users to explore specific trends.
 - The interactive report pages in Power BI appear as shown <a href="https://github.com/DennyMandaka/PwC-Switzerland-Call-Center-Analysis/blob/main/PwC%20Call%20Center%20Analysis.png">here</a>. The complete Power BI file can be accessed <a href="https://github.com/DennyMandaka/PwC-Switzerland-Call-Center-Analysis/blob/main/PwC%20Call%20Center%20Analysis.pbix">here</a>.
+
 ## Insights and Conclusion
 - This project deepened my understanding of identifying and analyzing Key Performance Indicators (KPIs) in a practical business context. By working with data related to agent performance, call outcomes, and customer satisfaction, I learned how these metrics contribute to strategic decision-making in the telecom industry.
 - Handling real-world datasets emphasized the importance of thorough data cleaning and validation. Resolving formatting issues, dealing with missing data, and ensuring consistency enhanced my attention to detail and problem-solving skills.
