@@ -22,4 +22,4 @@ Step 3: Visualization and Dashboard Creation
 ## Insights and Conclusion
 - This project deepened my understanding of identifying and analyzing Key Performance Indicators (KPIs) in a practical business context. By working with data related to agent performance, call outcomes, and customer satisfaction, I learned how these metrics contribute to strategic decision-making in the telecom industry.
 - Handling real-world datasets emphasized the importance of thorough data cleaning and validation. Resolving formatting issues, dealing with missing data, and ensuring consistency enhanced my attention to detail and problem-solving skills.
-- o	Developing the Power BI dashboard honed my skills in creating interactive and user-friendly visualizations. It also highlighted the importance of tailoring insights for stakeholders, ensuring that the output is actionable and accessible,
+- o	Developing the Power BI dashboard honed my skills in creating interactive and user-friendly visualizations. It also highlighted the importance of tailoring insights for stakeholders, ensuring that the output is actionable and accessible.
