@@ -1,4 +1,4 @@
-# PwC-Switzerland-Call-Center-Analysis
+# PwC Switzerland Call Center Analysis
 ## Project Objective 
 This project is part of a Job Simulation Program by PwC Switzerland, designed to replicate real-world business scenarios. The program provided a hands-on opportunity to analyze call center data, develop insights, and create an interactive Power BI dashboard. By tackling a practical task focused on telecom industry KPIs, this simulation enhanced my technical, analytical, and problem-solving skills, closely mirroring the demands of a professional role in business intelligence and data analytics.
 
